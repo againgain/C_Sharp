@@ -1,0 +1,15 @@
+/Users/happinessking/Projects/Hello2/Hello2/bin/Debug/net6.0/Hello2
+/Users/happinessking/Projects/Hello2/Hello2/bin/Debug/net6.0/Hello2.deps.json
+/Users/happinessking/Projects/Hello2/Hello2/bin/Debug/net6.0/Hello2.runtimeconfig.json
+/Users/happinessking/Projects/Hello2/Hello2/bin/Debug/net6.0/Hello2.dll
+/Users/happinessking/Projects/Hello2/Hello2/bin/Debug/net6.0/Hello2.pdb
+/Users/happinessking/Projects/Hello2/Hello2/obj/Debug/net6.0/Hello2.csproj.AssemblyReference.cache
+/Users/happinessking/Projects/Hello2/Hello2/obj/Debug/net6.0/Hello2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/happinessking/Projects/Hello2/Hello2/obj/Debug/net6.0/Hello2.AssemblyInfoInputs.cache
+/Users/happinessking/Projects/Hello2/Hello2/obj/Debug/net6.0/Hello2.AssemblyInfo.cs
+/Users/happinessking/Projects/Hello2/Hello2/obj/Debug/net6.0/Hello2.csproj.CoreCompileInputs.cache
+/Users/happinessking/Projects/Hello2/Hello2/obj/Debug/net6.0/Hello2.dll
+/Users/happinessking/Projects/Hello2/Hello2/obj/Debug/net6.0/refint/Hello2.dll
+/Users/happinessking/Projects/Hello2/Hello2/obj/Debug/net6.0/Hello2.pdb
+/Users/happinessking/Projects/Hello2/Hello2/obj/Debug/net6.0/Hello2.genruntimeconfig.cache
+/Users/happinessking/Projects/Hello2/Hello2/obj/Debug/net6.0/ref/Hello2.dll

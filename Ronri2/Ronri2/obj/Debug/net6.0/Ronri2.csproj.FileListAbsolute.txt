@@ -1,0 +1,15 @@
+/Users/happinessking/Projects/Ronri2/Ronri2/bin/Debug/net6.0/Ronri2
+/Users/happinessking/Projects/Ronri2/Ronri2/bin/Debug/net6.0/Ronri2.deps.json
+/Users/happinessking/Projects/Ronri2/Ronri2/bin/Debug/net6.0/Ronri2.runtimeconfig.json
+/Users/happinessking/Projects/Ronri2/Ronri2/bin/Debug/net6.0/Ronri2.dll
+/Users/happinessking/Projects/Ronri2/Ronri2/bin/Debug/net6.0/Ronri2.pdb
+/Users/happinessking/Projects/Ronri2/Ronri2/obj/Debug/net6.0/Ronri2.csproj.AssemblyReference.cache
+/Users/happinessking/Projects/Ronri2/Ronri2/obj/Debug/net6.0/Ronri2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/happinessking/Projects/Ronri2/Ronri2/obj/Debug/net6.0/Ronri2.AssemblyInfoInputs.cache
+/Users/happinessking/Projects/Ronri2/Ronri2/obj/Debug/net6.0/Ronri2.AssemblyInfo.cs
+/Users/happinessking/Projects/Ronri2/Ronri2/obj/Debug/net6.0/Ronri2.csproj.CoreCompileInputs.cache
+/Users/happinessking/Projects/Ronri2/Ronri2/obj/Debug/net6.0/Ronri2.dll
+/Users/happinessking/Projects/Ronri2/Ronri2/obj/Debug/net6.0/refint/Ronri2.dll
+/Users/happinessking/Projects/Ronri2/Ronri2/obj/Debug/net6.0/Ronri2.pdb
+/Users/happinessking/Projects/Ronri2/Ronri2/obj/Debug/net6.0/Ronri2.genruntimeconfig.cache
+/Users/happinessking/Projects/Ronri2/Ronri2/obj/Debug/net6.0/ref/Ronri2.dll
