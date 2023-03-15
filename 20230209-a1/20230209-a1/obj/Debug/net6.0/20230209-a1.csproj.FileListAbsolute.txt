@@ -1,0 +1,15 @@
+/Users/happinessking/Projects/20230209-a1/20230209-a1/bin/Debug/net6.0/20230209-a1
+/Users/happinessking/Projects/20230209-a1/20230209-a1/bin/Debug/net6.0/20230209-a1.deps.json
+/Users/happinessking/Projects/20230209-a1/20230209-a1/bin/Debug/net6.0/20230209-a1.runtimeconfig.json
+/Users/happinessking/Projects/20230209-a1/20230209-a1/bin/Debug/net6.0/20230209-a1.dll
+/Users/happinessking/Projects/20230209-a1/20230209-a1/bin/Debug/net6.0/20230209-a1.pdb
+/Users/happinessking/Projects/20230209-a1/20230209-a1/obj/Debug/net6.0/20230209-a1.csproj.AssemblyReference.cache
+/Users/happinessking/Projects/20230209-a1/20230209-a1/obj/Debug/net6.0/20230209-a1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/happinessking/Projects/20230209-a1/20230209-a1/obj/Debug/net6.0/20230209-a1.AssemblyInfoInputs.cache
+/Users/happinessking/Projects/20230209-a1/20230209-a1/obj/Debug/net6.0/20230209-a1.AssemblyInfo.cs
+/Users/happinessking/Projects/20230209-a1/20230209-a1/obj/Debug/net6.0/20230209-a1.csproj.CoreCompileInputs.cache
+/Users/happinessking/Projects/20230209-a1/20230209-a1/obj/Debug/net6.0/20230209-a1.dll
+/Users/happinessking/Projects/20230209-a1/20230209-a1/obj/Debug/net6.0/refint/20230209-a1.dll
+/Users/happinessking/Projects/20230209-a1/20230209-a1/obj/Debug/net6.0/20230209-a1.pdb
+/Users/happinessking/Projects/20230209-a1/20230209-a1/obj/Debug/net6.0/20230209-a1.genruntimeconfig.cache
+/Users/happinessking/Projects/20230209-a1/20230209-a1/obj/Debug/net6.0/ref/20230209-a1.dll
