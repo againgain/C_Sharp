@@ -1,0 +1,12 @@
+E:\VisualStudioRensyu\clickBuster-cs\clickBuster-cs\bin\Debug\clickBuster-cs.exe.config
+E:\VisualStudioRensyu\clickBuster-cs\clickBuster-cs\bin\Debug\clickBuster-cs.exe
+E:\VisualStudioRensyu\clickBuster-cs\clickBuster-cs\bin\Debug\clickBuster-cs.pdb
+E:\VisualStudioRensyu\clickBuster-cs\clickBuster-cs\obj\Debug\clickBuster-cs.csproj.AssemblyReference.cache
+E:\VisualStudioRensyu\clickBuster-cs\clickBuster-cs\obj\Debug\clickBuster-cs.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudioRensyu\clickBuster-cs\clickBuster-cs\obj\Debug\clickBuster_cs.F_Menu.resources
+E:\VisualStudioRensyu\clickBuster-cs\clickBuster-cs\obj\Debug\clickBuster_cs.Properties.Resources.resources
+E:\VisualStudioRensyu\clickBuster-cs\clickBuster-cs\obj\Debug\clickBuster-cs.csproj.GenerateResource.cache
+E:\VisualStudioRensyu\clickBuster-cs\clickBuster-cs\obj\Debug\clickBuster-cs.csproj.CoreCompileInputs.cache
+E:\VisualStudioRensyu\clickBuster-cs\clickBuster-cs\obj\Debug\clickBuster-cs.exe
+E:\VisualStudioRensyu\clickBuster-cs\clickBuster-cs\obj\Debug\clickBuster-cs.pdb
+E:\VisualStudioRensyu\clickBuster-cs\clickBuster-cs\obj\Debug\clickBuster_cs.F_Main.resources
