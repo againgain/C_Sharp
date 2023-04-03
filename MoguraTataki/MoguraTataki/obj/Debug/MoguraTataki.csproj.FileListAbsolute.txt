@@ -1,0 +1,11 @@
+E:\VisualStudioRensyu\MoguraTataki\MoguraTataki\bin\Debug\MoguraTataki.exe.config
+E:\VisualStudioRensyu\MoguraTataki\MoguraTataki\bin\Debug\MoguraTataki.exe
+E:\VisualStudioRensyu\MoguraTataki\MoguraTataki\bin\Debug\MoguraTataki.pdb
+E:\VisualStudioRensyu\MoguraTataki\MoguraTataki\obj\Debug\MoguraTataki.csproj.AssemblyReference.cache
+E:\VisualStudioRensyu\MoguraTataki\MoguraTataki\obj\Debug\MoguraTataki.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudioRensyu\MoguraTataki\MoguraTataki\obj\Debug\MoguraTataki.Form1.resources
+E:\VisualStudioRensyu\MoguraTataki\MoguraTataki\obj\Debug\MoguraTataki.Properties.Resources.resources
+E:\VisualStudioRensyu\MoguraTataki\MoguraTataki\obj\Debug\MoguraTataki.csproj.GenerateResource.cache
+E:\VisualStudioRensyu\MoguraTataki\MoguraTataki\obj\Debug\MoguraTataki.csproj.CoreCompileInputs.cache
+E:\VisualStudioRensyu\MoguraTataki\MoguraTataki\obj\Debug\MoguraTataki.exe
+E:\VisualStudioRensyu\MoguraTataki\MoguraTataki\obj\Debug\MoguraTataki.pdb
